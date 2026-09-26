@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+reportlab
+matplotlib
+requests
+pytest
+jinja2
